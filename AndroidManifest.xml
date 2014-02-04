@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.motorhead.typography"
+    android:installLocation="auto"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk android:minSdkVersion="1"
+        android:targetSdkVersion="19" />
+
+    <application
+        android:icon="@drawable/icon"
+        android:label="@string/theme_title" android:logo="@drawable/icon">
+        <activity
+            android:name="com.motorhead.typography.MainActivity"
+            android:label="@string/theme_title" >
+            
+                <!-- ADW / Nova / Holo -->
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <action android:name="org.adw.launcher.THEMES" />
+                <category android:name="android.intent.category.DEFAULT" />       
+            </intent-filter>
+            <intent-filter>
+                <action android:name="org.adw.launcher.icons.ACTION_PICK_ICON" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>   
+            
+            <!-- Go / Nova -->
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <action android:name="com.gau.go.launcherex.theme" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+            <intent-filter>
+		<action android:name="android.intent.action.MAIN" />
+     		<category android:name="android.intent.category.DEFAULT" />
+     	    </intent-filter>
+     		
+          	<!-- LauncherPro / Holo -->
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="com.fede.launcher.THEME_ICONPACK" />
+            </intent-filter>
+            
+        </activity>
+        <activity
+            android:name="com.motorhead.typography.Icons"
+            android:label="@string/title_activity_icons" >
+            <intent-filter>
+                <action android:name="org.adw.launcher.icons.ACTION_PICK_ICON" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>  
+        </activity>
+    </application>
+
+</manifest>

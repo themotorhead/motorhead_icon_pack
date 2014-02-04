@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="icon_pack" translatable="false">
+		<item>adaway</item>
+		<item>books</item>
+		<item>browser</item>
+		<item>calculator</item>
+		<item>calendar</item>
+		<item>camera</item>
+		<item>chan</item>
+		<item>fileexplorer</item>
+		<item>lux</item>
+		<item>mail</item>
+		<item>manga</item>
+		<item>messages</item>
+		<item>mimi</item>
+		<item>music</item>
+		<item>news</item>
+		<item>omniswitch</item>
+		<item>phone</item>
+		<item>photos</item>
+		<item>pocket</item>
+		<item>podcasts</item>
+		<item>radio</item>
+		<item>readmill</item>
+		<item>reddit</item>
+		<item>redditflow</item>
+		<item>securesettings</item>
+		<item>tasker</item>
+		<item>whatsapp</item>
+		<item>xposed</item>
+		<item>youlisten</item>
+		
+	</string-array>
+</resources>

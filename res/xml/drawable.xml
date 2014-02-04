@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <version>1</version>
+    <item drawable="adaway" />
+    <item drawable="books" />
+    <item drawable="browser" />
+    <item drawable="calculator" />
+    <item drawable="calendar" />
+    <item drawable="camera" />
+    <item drawable="chan" />
+    <item drawable="fileexplorer" />
+    <item drawable="lux" />
+    <item drawable="mail" />
+    <item drawable="manga" />
+    <item drawable="messages" />
+    <item drawable="mimi" />
+    <item drawable="music" />
+    <item drawable="news" />
+    <item drawable="omniswitch" />
+    <item drawable="phone" />
+    <item drawable="photos" />
+    <item drawable="pocket" />
+    <item drawable="podcasts" />
+    <item drawable="radio" />
+    <item drawable="readmill" />
+    <item drawable="reddit" />
+    <item drawable="redditflow" />
+    <item drawable="securesettings" />
+    <item drawable="tasker" />
+    <item drawable="whatsapp" />
+    <item drawable="xposed" />
+    <item drawable="youlisten" />
+    
+</resources>

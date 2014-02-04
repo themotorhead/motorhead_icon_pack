@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <iconback img1="iconback" />
+	<iconmask img1="iconmask" />
+    <iconupon img1="iconupon" />
+    <scale factor=".75" />
+
+    <!-- Browser -->
+	<item component="ComponentInfo{org.adaway/org.adaway.ui.BaseActivity}" drawable="adaway" />
+	<item component="ComponentInfo{com.flyersoft.moonreaderp/com.flyersoft.moonreaderp.ActivityMain}" drawable="books" />
+	<item component="ComponentInfo{com.fevdev.nakedbrowserpro/com.fevdev.nakedbrowserpro.NakedBrowserProActivity}" drawable="browser" />
+	<item component="ComponentInfo{}" drawable="calculator" />
+	<item component="ComponentInfo{}" drawable="calendar" />
+	<item component="ComponentInfo{}" drawable="camera" />
+	<item component="ComponentInfo{}" drawable="chan" />
+	<item component="ComponentInfo{}" drawable="fileexplorer" />
+	<item component="ComponentInfo{}" drawable="lux" />
+	<item component="ComponentInfo{}" drawable="mail" />
+	<item component="ComponentInfo{}" drawable="manga" />
+	<item component="ComponentInfo{}" drawable="messages" />
+	<item component="ComponentInfo{}" drawable="mimi" />
+	<item component="ComponentInfo{}" drawable="music" />
+	<item component="ComponentInfo{}" drawable="news" />
+	<item component="ComponentInfo{}" drawable="omniswitch" />
+	<item component="ComponentInfo{}" drawable="phone" />
+	<item component="ComponentInfo{}" drawable="photos" />
+	<item component="ComponentInfo{}" drawable="pocket" />
+	<item component="ComponentInfo{}" drawable="podcasts" />
+	<item component="ComponentInfo{}" drawable="radio" />
+	<item component="ComponentInfo{}" drawable="readmill" />
+	<item component="ComponentInfo{}" drawable="reddit" />
+	<item component="ComponentInfo{}" drawable="redditflow" />
+	<item component="ComponentInfo{}" drawable="securesettings" />
+	<item component="ComponentInfo{}" drawable="tasker" />
+	<item component="ComponentInfo{}" drawable="whatsapp" />
+	<item component="ComponentInfo{}" drawable="xposed" />
+	<item component="ComponentInfo{}" drawable="youlisten" />
+	
+</resources>
